@@ -22,7 +22,8 @@ Tools: Jupyter Notebook, VS Code, Git
 ## Dataset Used
 Source: Netflix Dataset from Kaggle
 
-## Description: The dataset contains information about Netflix movies and TV shows, including titles, cast, director, release year, duration, genre, country, and ratings.
+## Description: 
+The dataset contains information about Netflix movies and TV shows, including titles, cast, director, release year, duration, genre, country, and ratings.
 
 ## Project Steps
 Data Extraction: Collected raw data from the Netflix dataset.
